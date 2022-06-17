@@ -43,7 +43,6 @@ public class Course {
     public void getStudents(){
         Student.getStudents();
     }
-   
     // Course    
     public void getCourses(){
         courses.forEach((course) -> {

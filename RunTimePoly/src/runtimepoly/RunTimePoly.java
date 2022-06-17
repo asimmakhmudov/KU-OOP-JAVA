@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class RunTimePoly {
 
     public static void main(String[] args) {
-        Animals[] obj = new Animals[4];
+//        Animals[] obj = new Animals[4];
         ArrayList<Animals> objects = new ArrayList<>();
         
         objects.add(new Donkey());
